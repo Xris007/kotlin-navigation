@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">List Maker</string>
+    <string name="name_list">What is the name of your list?</string>
+    <string name="create_list">Create</string>
+    <string name="name_item">What is the item you want to add?</string>
+    <string name="add_item">Add</string>
+    <string name="type_here">Type here…</string>
+    <string name="light_mode">Light Mode</string>
+    <string name="night_mode">Night Mode</string>
+</resources>
